@@ -3,6 +3,10 @@
     display: flex;
 }
 
+.main_header { 
+    font-size: 3rem;
+}
+
 .social-icons{
     padding-top: 4px;
     height: 30px;
@@ -13,6 +17,10 @@
 .banner__container {
     text-align: center;
 }
+
+.p {
+    text-indent: 20px; /* Отступ первой строки в пикселах */
+   }
 
 .banner {
     width: 100%;
